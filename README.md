@@ -41,7 +41,7 @@ Ruby and Bundler must be installed on your computer (versions 3.0.1 and 2.2.15, 
 
 - GitHub: [@Genius8](https://github.com/Genius8)
 - Twitter: [@erasmusokiror](https://twitter.com/erasmusokiror)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/erasmus-okiror)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/erasmus-okiror-126363130/)
 
 👤 **Lucas Ferrari Soto**
 
